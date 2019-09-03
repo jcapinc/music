@@ -1,0 +1,15 @@
+.fiddle{
+	width:350px; 
+	float:left;
+} 
+.fiddle select, .fiddle input[type=text] {
+	width: 120px;
+	padding:2px;
+	margin: 2px;
+	border: 1px solid black;
+}
+
+.fiddle select {
+	width: 126px;
+}
+
